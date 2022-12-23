@@ -7,3 +7,5 @@ https://docs.confluent.io/kafka-clients/python/current/overview.html
 https://developer.confluent.io/get-started/python/
 
 https://docs.confluent.io/platform/current/clients/confluent-kafka-python/html/index.html
+
+https://github.com/confluentinc/confluent-kafka-python/issues/373
